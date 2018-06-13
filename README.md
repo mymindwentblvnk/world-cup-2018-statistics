@@ -2,12 +2,6 @@
 
 This is a jupyter notebook that helps you to analyze historic world cup match data. So now you can see which result happened most per team per tournament phase. This is independent of betting quotes and the opponent.
 
-## Installation
-
-1. ```git clone <this_repository>```
-2. ```make install```
-3. ```make notebook```
-
 ## The Data
 
 The raw data looks like this. As it can be seen in the [notebook](https://github.com/mymindwentblvnk/world-cup-2018-statistics/blob/master/world_cup_2018_statistics.ipynb) I apply some more data to have an easier analysis.
@@ -22,6 +16,12 @@ The raw data looks like this. As it can be seen in the [notebook](https://github
 | Brazil | Brazil    | 0          | 0          | Mexico      | Group Phase         | 2014 |
 | Brazil | Brazil    | 3          | 1          | Croatia     | Group Phase         | 2014 |
 | Brazil | Brazil    | 1          | 2          | Netherlands | quarterfinal        | 2010 |
+
+## Installation
+
+1. ```git clone <this_repository>```
+2. ```make install```
+3. ```make notebook```
 
 ## Demo
 
