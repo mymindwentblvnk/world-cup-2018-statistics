@@ -19,7 +19,8 @@ The raw data looks like this. As it can be seen in the [notebook](https://github
 
 ## Installation
 
-1. ```git clone <this_repository>```
+1. ```git clone https://github.com/mymindwentblvnk/world-cup-2018-statistics```
+2. ```cd world-cup-2018-statistics```
 2. ```make install```
 3. ```make notebook```
 
